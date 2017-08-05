@@ -1,0 +1,1 @@
+# enhanced-rails-architecture
