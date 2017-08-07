@@ -16,16 +16,16 @@ And we will close it with **services**, probably the most hackneyed pattern of t
 To keep track of all those new classes that will appear in the project it is good to come with new folders. The folders are not fixed, but the following structure makes sense:
 
 app/  
-  &bull; controllers  
-  &bull; [decorators](#decorators)  
-  &bull; [helpers](#helpers)  
-  &bull; [listeners](#publishers-and-listeners)  
-  &bull; models/  
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&bull; [concerns](#concerns)  
-  &bull; [policies](#policies)  
-  &bull; [publishers](#publishers-and-listeners)  
-  &bull; [services](#services)  
-  &bull; views  
+&nbsp;&nbsp;&nbsp;&nbsp;&bull; controllers  
+&nbsp;&nbsp;&nbsp;&nbsp;&bull; [decorators](#decorators)  
+&nbsp;&nbsp;&nbsp;&nbsp;&bull; [helpers](#helpers)  
+&nbsp;&nbsp;&nbsp;&nbsp;&bull; [listeners](#publishers-and-listeners)  
+&nbsp;&nbsp;&nbsp;&nbsp;&bull; models/  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&bull; [concerns](#concerns)  
+&nbsp;&nbsp;&nbsp;&nbsp;&bull; [policies](#policies)  
+&nbsp;&nbsp;&nbsp;&nbsp;&bull; [publishers](#publishers-and-listeners)  
+&nbsp;&nbsp;&nbsp;&nbsp;&bull; [services](#services)  
+&nbsp;&nbsp;&nbsp;&nbsp;&bull; views  
 
 ## Particular patterns descriptions
 
